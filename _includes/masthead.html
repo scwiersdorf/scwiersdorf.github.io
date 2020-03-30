@@ -3,6 +3,9 @@
     {% if site.logo %}
       <a href="{{ '/' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
         <img src="{{ site.logo | relative_url }}" class="site-logo-img animated fadeInDown" alt="{{ site.title }}">
+        {% if page.layout == 'home' %}
+        <h1 class="site-title animated fadeIn"><a href="{{ '/' | relative_url }}" style="color: #eee">{{ site.title }}</a></h1>
+        {% endif %}
       </a>
     {% endif %}
     {% assign page_image = page.image.path | default: page.image %}

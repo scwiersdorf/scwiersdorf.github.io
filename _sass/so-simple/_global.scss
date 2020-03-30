@@ -29,6 +29,9 @@
   text-align: center;
 
   ul {
+      width: 100%;
+      max-width: $main-max-width;
+
     display: block;
     margin: 0;
     padding: 0.25em 0.75em;
@@ -50,7 +53,7 @@
     padding: 0.5em 0.75em;
     text-transform: uppercase;
     text-decoration: none;
-    border: 1px solid;
+    border: none;
     border-radius: $border-radius;
   }
 
@@ -69,13 +72,16 @@
   @include clearfix;
   margin-bottom: 3em;
   text-align: center;
+  z-index: 10;
 }
 
 .site-title {
   margin: 0.5em 0 0;
   padding: 0;
-  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+  // @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
   font-weight: 700;
+  z-index: 20;
+  font-size: 48px;
 
   a {
     text-decoration: none;

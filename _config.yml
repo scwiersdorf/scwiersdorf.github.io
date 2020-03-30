@@ -21,15 +21,20 @@
 title: The Blackboard
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just me and my keyboard. And some chocolate. And a dog.
+  Just me and my keyboard. And some chocolate.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: scwiersdorf
+logo: "/img/sarah_looks_sideways.jpg"
 
 # Build settings
-theme: minima
+theme: "jekyll-theme-so-simple"
+skin: "/assets/css/skins/light.css"
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

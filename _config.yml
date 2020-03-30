@@ -29,7 +29,7 @@ logo: "/img/emacs_logo.png"
 
 # Build settings
 theme: "jekyll-theme-so-simple"
-skin: "/assets/css/skins/sarah_light.css"
+skin: "/assets/css/skins/light.css"
 #remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #theme: minima
 plugins:

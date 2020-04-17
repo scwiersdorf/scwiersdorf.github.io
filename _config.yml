@@ -35,6 +35,13 @@ skin: "/assets/css/skins/light.css"
 plugins:
   - jekyll-feed
 
+google_fonts:
+  - name: "Oswald"
+    weights: "400,400i,700,700i"
+  - name: "Lato"
+    weights: "400,400i,700,700i"
+  - name: "Raleway"
+    weights: "300,400"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -42,14 +42,18 @@ $serif-font-family: "Lora", serif !default;
 $sans-serif-font-family: "Source Sans Pro", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
-$base-font-family: $sans-serif-font-family !default;
-$headline-font-family: $sans-serif-font-family !default;
-$title-font-family: $serif-font-family !default;
+// $base-font-family: $sans-serif-font-family !default;
+// $headline-font-family: $sans-serif-font-family !default;
+// $title-font-family: $serif-font-family !default;
+$base-font-family: "Lato", sans-serif !default;
+$headline-font-family: "Oswald", serif !default;
+$title-font-family: "Oswald", sans-serif !default;
 $description-font-family: $serif-font-family !default;
 $meta-font-family: $serif-font-family !default;
 
 $page-title-weight: bold !default;
-$entry-title-weight: bold !default;
+$entry-title-weight: 300 !default;
+// $entry-title-weight: bold !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: #000 !default;

@@ -1,6 +1,6 @@
 ---
 title: How to Get a Headache
-excerpt: "*Written by a university student with chronic headaches* Have you ever wondered what it is like to have a headache? Have you ever wondered what it’s like to live like the rest of humanity? This how to is your guide to being human and having a headache."
+excerpt: "*Written by a university student with chronic headaches*<br/>Have you ever wondered what it is like to have a headache? Have you ever wondered what it’s like to live like the rest of humanity? This how to is your guide to being human and having a headache."
 date: 2020-05-18
 ---
 *Written by a university student with chronic headaches*

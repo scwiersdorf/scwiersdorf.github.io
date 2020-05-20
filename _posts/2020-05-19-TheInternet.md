@@ -1,5 +1,5 @@
 ---
-title: Things Social Media Would Have You Believe:
+title: Things Social Media Would Have You Believe
 ---
 
 People respond violently to everything.

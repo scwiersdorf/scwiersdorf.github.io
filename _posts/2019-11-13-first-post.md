@@ -5,7 +5,7 @@ author: Sarah
 
 This is my first post on my new blog. Woot!
 
-It doesn't look very pretty right now; my funny husband is working on fixing that.
+It doesn't look very pretty right now; my handsome, wonderful, intelligent husband is working on fixing that.
 
 I don't actually know how to use GitHub. I'm just using it for the free hosting. Woot!
 

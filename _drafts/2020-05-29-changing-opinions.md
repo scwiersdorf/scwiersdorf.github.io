@@ -32,48 +32,37 @@ The Secretary hissed. "What? No. You said a little over a year ago that you need
 
 "I understand your old views better than you. You must listen to me. Besides, if you start agreeing with the other side, you have to go all the way. There is no compromise."
 
-Little ancedote OVER!
+Dumb, little anecdote OVER!
 
-Here's the thing. I stress all the time about things I have said before, ideas that I had, things I thought were truths.
+This blog is primarily for short stories and little opinion pieces or "how to's" or anything that will help me practice writing. But you will read about my opinions. Here's the thing. I stress all the time about things I have said before, ideas that I had, things I thought were truths, stupid things I might say in the future, etc.
 
-I've come to realize over time that when I come up with what it means for something to be true, I am wrong most of the time unless I happen to be in line with eternal truths from God. Even in math, rules that I thought were rules for good can be proven wrong depending on what is going on.
+I've come to realize over time that when I try to come up with what it means for something to be "true," I am wrong most of the time unless I happens to be in line with eternal truths from God. Even in math, rules that I thought were rules for good can be proven wrong depending on what is going on.
 
 This is where I will mention religion. I am religious, and I do believe that there is right and there is wrong. I believe that God is the only one who can decide that. He tells us those truths through his servants, the prophets. God has laid out a plan for each of us, and following Christ through truths of the Gospel are how we return to Him to be happy for eternity.
 
-In summary, things I will not change my opinion are these:
+In summary, things on which I will not change my opinion are these:
  - God lives
  - Jesus Christ lived and died and lived again. He was sent by God. 
  - The Gospel of Jesus Christ and the commandments of God are how we return to live with him
- - The Book of Mormon is true (written by prophets, under the direction of God)
+ - The Book of Mormon is true (written by prophets, under the direction of God. This obviously extends to the Bible as well).
  - God has called a living prophet on the earth today, and he directs the Church of Jesus Christ of Latter-day Saints
  - We can gain personal revelation for our own lives by turning to God
  - There is good, and there is evil.
 
 But after those, life gets a little more complicated. We can agree on the things above and have completely different opinions about politics, the best way to raise children, what it means to be educated, what the most important things we should do in our life are, whether English majors are valuable (upcoming post on that one!), etc. etc.
 
-Sometimes, we have a hard time fitting things into our unshakeable truths. For example: I'm writing this during the coronavirus pandemic, and there have been many opinions circling around whether it is good to wear a mask or not. I have a very strong opinion about this: everyone who is able to, should wear a mask when in crowded or indoor spaces (even if we're not a hundred percent sure it is helping). I think it is selfish to cite "personal liberty" as a reason not to wear a mask, and I think people who say "I'm not going to wear a mask unless I'm sick" are uninformed. And trust me, I see red when people try to argue with me against that opinion. I've done my research. I don't have strong opinions unless I have done my research because I hate and am terrified of confrontation and won't discuss things with people unless I've done my research.
+Sometimes, we have a hard time fitting things into our unshakeable truths. For example: I'm writing this during the coronavirus pandemic, and there have been many opinions circling around whether it is good to wear a mask or not. I have a very strong opinion about this: everyone who is able to, should wear a mask when in crowded or indoor spaces (even if we're not a hundred percent sure it is helping). I think it is selfish to cite "personal liberty" as a reason not to wear a mask, and I think people who say "I'm not going to wear a mask unless I'm sick" are uninformed. And trust me, I see red when people try to argue with me against that opinion. I've done my research. I don't have strong opinions unless I have done my research because I hate and am terrified of confrontation and won't discuss things with people unless I've done my research. 
+
+But, wearing masks or not wearing masks doesn't solidly fit into the unshakeable truths that I have above. I can think of some ways that it does, but others can think of ways *not* wearing masks fits into those same truths. (Baffling to me, but okay.)
 
 But I don't know how things are going to develop. I find myself doubting this, and feeling annoyed with even myself for saying this, but if evidence comes out that masks are in fact harmful (again, feel my eyeroll), I want to feel like I can change my opinion. Even though I have stated here that *I think* they are not as harmful as they are helpful in our current situation.
 
-I think (important phrase y'all) a lot of the problems that we have today (particularly political) have come because people refused to entertain the idea that the other side has truth. Our polarizing political parties in the United States are evidence of that. 
+I think (important phrase y'all) a lot of the problems that we have today (particularly political) have come because people refused to entertain the idea that the other side fits into our unshakeable truth sometimes. Our polarizing political parties in the United States are evidence of that. 
 
-So here's the thing. You'll notice most of the above statements are "I think" statements. And they will stay that way. The truth is, I don't know anything. I can't. It's impossible. But I try. And I change. And I try to get closer to truth.
+So here's the thing. You'll notice most of the above statements are "I think" statements. And they will stay that way. The truth is, I don't know anything compared to everything I could know. I can't. It's impossible. But I try. And I change. And I try to get closer to truth.
 
-So, as you read things in my blog, understand that unless they directly follow the things above that I have stated as my undeniable truths, the are "I think" statements. If you want to talk to me about my opinions, that's great. I will welcome any discussion. But you must understand, I will shut off if you are not willing to accept that you may be wrong, because now it is a confrontation. (It's an anxiety thing. I've always been a little that way. Working on it.)
+So, as you read things in my blog, understand that unless they directly follow the things above that I have stated as my unshakeable truths, they are "I think" statements. Often well thought out, "I think" statements, but "I think" statements nontheless. If you want to talk to me about my opinions, that's great. I will welcome any discussion. But you must understand, I will shut off if you are not willing to accept that you may be wrong, because now it is a confrontation. Argument. You trying to eat me up. (It's an anxiety thing. I've always been a little that way. Working on it.)
 
-A little over a year ago, I had a good conversation. I was talking to a relative of my husband's. As some context, someone close to me had just been refused a job they really wanted in favor of someone else. I was furious. I almost sure the person close to me was obviously better for the job. They were almost selected, and so excited.
-
-I talked with my husband's relative about hiring in the workplace. I think we may have been talking about women in STEM majors, because I had just switched out of my engineering major in favor for an English major. He had asked me what my classes were like before, and if I was one of the few women. He lamented that there weren't more women in STEM majors, and that he thought that having more women would be valuable. 
-
-After transitioning to talking about diversity in the workplace, I stated something along the lines of "the person who would be best for the job should always be hired." He responded with "yes, even if that means they're not the best at the particular job they will be doing." 
-
-I was baffled and annoyed. Even as a woman myself, I didn't think it would be fair if I got chosen over someone who would do a better job than me simply because I was a woman. I also felt like some places were swinging too far to getting as much "diversity" as possible to make their company look good instead of focusing on what would be best for the company. It seemed fake and insincere. It seemed like companies were saying, "look at us! We have a smaller percentage of white males! Use us!" I was upset that people were being used as tropheys against others.
-
-This was a long time ago, so I don't remember everything I was feeling or everything that was said, but he explained that in some cases it's more important to have diversity to help the company move forward than it is to have "skill". What about innovation? What about understanding more audiences? Isn't that what we need everywhere? 
-
-I said a couple of things I regret. Looking back, they were a little racist. I certainly wasn't meaning to be racist, but I certainly didn't understand the weight of what I was saying and how people who thought similarly to me were allowing racism in our society to persist.
-
-That conversation stuck to me like superglue on my callused fingers. I never really stopped picking at it, trying to not pull skin away with the glue. 
 
 
 

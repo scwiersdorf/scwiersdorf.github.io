@@ -6,10 +6,24 @@
     <description>Recent content on The Blackboard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sarah.wiersdorf.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A test post</title>
+      <link>https://sarah.wiersdorf.org/posts/2020-08-22-test-post/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarah.wiersdorf.org/posts/2020-08-22-test-post/</guid>
+      <description>This is a test post.
+Heading 1 Lorem ipsum dolor sit amet.
+Cool link: husband&amp;rsquo;s blog. Can I haz footnotes?1
+Subsection here I like&amp;hellip; cloth?
+  Boom. Looks like I can, yo. &amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
     
     <item>
       <title>How to Get a Headache</title>

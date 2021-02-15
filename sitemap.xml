@@ -3,56 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sarah.wiersdorf.org/tags/character/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/posts/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/tags/short-story/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/tags/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/posts/2020-12-06-theboyandthecrow/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/posts/2020-08-27-thedarkforest/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/posts/2020-05-19-theinternet/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sarah.wiersdorf.org/posts/2020-05-18-get-headache/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sarah.wiersdorf.org/about/</loc>
   </url>
   
   <url>
     <loc>https://sarah.wiersdorf.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sarah.wiersdorf.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sarah.wiersdorf.org/</loc>
   </url>
   
 </urlset>

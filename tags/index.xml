@@ -6,28 +6,9 @@
     <description>Recent content in Tags on The Blackboard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sarah.wiersdorf.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>character</title>
-      <link>https://sarah.wiersdorf.org/tags/character/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sarah.wiersdorf.org/tags/character/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>short story</title>
-      <link>https://sarah.wiersdorf.org/tags/short-story/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sarah.wiersdorf.org/tags/short-story/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

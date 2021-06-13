@@ -1,0 +1,33 @@
+baseURL = "https://sarah.wiersdorf.org"
+languageCode = "en-us"
+title = "The Blackboard"
+
+theme = "anatole"
+
+[params]
+title = "The Blackboard"
+author = "Sarah Wiersdorf"
+description = "My chalk squeeks sometimes, but at least I'm writing!"
+profilePicture = "img/sarah_looks_sideways.jpg"
+customJs = ["js/goat_counter.js"]
+customCss = ["css/blackboard.css"]
+
+[menu]
+
+    [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+    [[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+
+    [[menu.main]]
+    name = "Posts"
+    identifier = "posts"
+    weight = 300
+    url = "/posts/"

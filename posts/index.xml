@@ -1,10 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on The Blackboard</title><link>https://sarah.wiersdorf.org/posts/</link><description>Recent content in Posts on The Blackboard</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sarah.wiersdorf.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Dark Forest</title><link>https://sarah.wiersdorf.org/posts/2020-08-27-thedarkforest/</link><pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate><guid>https://sarah.wiersdorf.org/posts/2020-08-27-thedarkforest/</guid><description>This summer has been one of the brightest and warmest in my memory. Smoke from nearby fires had not turned the sun red and muted its rays into a brownish haze until recently. Rain hasn&amp;rsquo;t had us all wearing sweaters until the fourth of July, like last year when we celebrated in a variety of scarves and raincoats. I even managed to get one of the worst sunburns I&amp;rsquo;ve had in years and my leathery skin peeled off my shoulders in sheets as I backpacked for the first time.</description></item><item><title>Things Social Media Would Have You Believe</title><link>https://sarah.wiersdorf.org/posts/2020-05-19-theinternet/</link><pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate><guid>https://sarah.wiersdorf.org/posts/2020-05-19-theinternet/</guid><description>People respond violently to everything.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Blackboard</title>
+    <link>https://sarah.wiersdorf.org/posts/</link>
+    <description>Recent content in Posts on The Blackboard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sarah.wiersdorf.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Boy and the Crow</title>
+      <link>https://sarah.wiersdorf.org/posts/2020-12-06-theboyandthecrow/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarah.wiersdorf.org/posts/2020-12-06-theboyandthecrow/</guid>
+      <description>He sat, stuck, staring at the tree where the free crow rested, and wished to be the crow. He spread his arms out from his chair, closed his eyes, and imagined feeling the wind whistle past his ears and over his bald head as he glided with the crow. Every day, the crow came to show the boy how to fly. Every day, the boy imagined how he could fly away, and be free.</description>
+    </item>
+    
+    <item>
+      <title>The Dark Forest</title>
+      <link>https://sarah.wiersdorf.org/posts/2020-08-27-thedarkforest/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarah.wiersdorf.org/posts/2020-08-27-thedarkforest/</guid>
+      <description>This summer has been one of the brightest and warmest in my memory. Smoke from nearby fires had not turned the sun red and muted its rays into a brownish haze until recently. Rain hasn&amp;rsquo;t had us all wearing sweaters until the fourth of July, like last year when we celebrated in a variety of scarves and raincoats. I even managed to get one of the worst sunburns I&amp;rsquo;ve had in years and my leathery skin peeled off my shoulders in sheets as I backpacked for the first time.</description>
+    </item>
+    
+    <item>
+      <title>Things Social Media Would Have You Believe</title>
+      <link>https://sarah.wiersdorf.org/posts/2020-05-19-theinternet/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarah.wiersdorf.org/posts/2020-05-19-theinternet/</guid>
+      <description>People respond violently to everything.
 It&amp;rsquo;s normal and acceptable to respond inappropriately to things.
 It&amp;rsquo;s okay to will people to hell if they disagree with you.
 Everyone who disagrees with you hasn&amp;rsquo;t done their research.
 If you&amp;rsquo;re passionate about a current issue, you&amp;rsquo;re not looking at things logically.
 The &amp;ldquo;other side&amp;rdquo; has the worst intentions.
-Even the most complicated debates on current affairs can be summed up in one picture and one line of text.</description></item><item><title>How to Get a Headache</title><link>https://sarah.wiersdorf.org/posts/2020-05-18-get-headache/</link><pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate><guid>https://sarah.wiersdorf.org/posts/2020-05-18-get-headache/</guid><description>Written by a university student with chronic headaches
+Even the most complicated debates on current affairs can be summed up in one picture and one line of text.</description>
+    </item>
+    
+    <item>
+      <title>How to Get a Headache</title>
+      <link>https://sarah.wiersdorf.org/posts/2020-05-18-get-headache/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarah.wiersdorf.org/posts/2020-05-18-get-headache/</guid>
+      <description>Written by a university student with chronic headaches
 Have you ever wondered what it is like to have a headache? Have you ever wondered what it’s like to live like the rest of humanity? This how to is your guide to being human and having a headache.
 Tip 1: Stress out
-If you do not have regular headaches, you might not have enough stress in your life. According to WebMD’s article on “The Effects of Stress on Your Body”, there is a positive and a negative type of stress.</description></item></channel></rss>
+If you do not have regular headaches, you might not have enough stress in your life. According to WebMD’s article on “The Effects of Stress on Your Body”, there is a positive and a negative type of stress.</description>
+    </item>
+    
+  </channel>
+</rss>
